@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building scalable backend applications with Java & Spring Boot<br><br>🌱 Learning Docker, Redis, Kafka, AWS, and System Design<br><br>💻 Solved 200+ DSA problems (update this as you progress)<br><br>🚀 Building production-ready backend projects<br><br>🎯 Aspiring Backend Software Engineer
+Hi 👋, I'm Harshit Kumar<br><br>🔭 Currently building scalable backend applications with Java & Spring Boot<br><br>🌱 Learning Docker, Redis, Kafka, AWS, and System Design<br><br>💻 Solved 200+ DSA problems (update this as you progress)<br><br>🚀 Building production-ready backend projects<br><br>🎯 Aspiring Backend Software Engineer
 
 
 ## 🌐 Socials:
